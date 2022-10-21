@@ -26,7 +26,6 @@ const Portfolio = () => (
                         </Grid>
                         <Grid item>
                             <MuiTypography variant="h6" gutterBottom>
-                                Photo of my sexy program:
                                 <img
                                     style={{
                                         display: 'block',
@@ -54,7 +53,6 @@ const Portfolio = () => (
                         </Grid>
                         <Grid item>
                             <MuiTypography variant="h6" gutterBottom>
-                                Photo of my sexy program:
                                 <img
                                     style={{
                                         display: 'block',
@@ -81,7 +79,6 @@ const Portfolio = () => (
                         </Grid>
                         <Grid item>
                             <MuiTypography variant="h6" gutterBottom>
-                                Photo of my sexy program:
                                 <img
                                     style={{
                                         display: 'block',
@@ -108,7 +105,6 @@ const Portfolio = () => (
                         </Grid>
                         <Grid item>
                             <MuiTypography variant="h6" gutterBottom>
-                                Photo of my sexy program:
                                 <img
                                     style={{
                                         display: 'block',
